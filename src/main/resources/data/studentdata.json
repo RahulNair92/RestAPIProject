@@ -1,0 +1,23 @@
+[
+  {
+  "firstName":"Amy",
+  "lastName":"Winehouse",
+  "studentID":1328,
+  "email":"amy.winehouse@jazz.com",
+  "courses":[
+    "Jazz",
+    "Blues"
+  ]
+},
+  {
+    "firstName":"John",
+    "lastName":"Darrel",
+    "studentID":1329,
+    "email":"john.darrel@jazz.com",
+    "courses":[
+      "Jazz",
+      "Blues"
+    ]
+  }
+
+]

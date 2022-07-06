@@ -1,0 +1,7 @@
+{
+  "firstName" : "John",
+  "lastName" : "Darrel",
+  "studentID" : 1328,
+  "email" : "amy.winehouse@jazz.com",
+  "courses" : [ "Jazz", "Blues" ]
+}
